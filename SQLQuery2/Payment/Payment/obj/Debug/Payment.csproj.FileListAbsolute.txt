@@ -1,0 +1,20 @@
+C:\TSQL Saturday\Session 10\Payment\Payment\bin\Debug\Payment.exe.config
+C:\TSQL Saturday\Session 10\Payment\Payment\bin\Debug\Payment.exe
+C:\TSQL Saturday\Session 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\TSQL Saturday\Session 10\Payment\Payment\obj\Debug\Payment.csprojResolveAssemblyReference.cache
+C:\TSQL Saturday\Session 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\TSQL Saturday\Session 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\TSQL Saturday\Session 10\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache
+C:\TSQL Saturday\Session 10\Payment\Payment\obj\Debug\Payment.exe
+C:\TSQL Saturday\Session 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\TSQL Saturday\Session 10\Payment\Payment\obj\Debug\Payment.Form2.resources
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\bin\Debug\Payment.exe.config
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\bin\Debug\Payment.exe
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\bin\Debug\Payment.pdb
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\obj\Debug\Payment.csprojResolveAssemblyReference.cache
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\obj\Debug\Payment.Form2.resources
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\obj\Debug\Payment.exe
+D:\ADATA Backup\T-SQL-Film & Voice-11\s10-voice-T-SQL\Script 10\Payment\Payment\obj\Debug\Payment.pdb

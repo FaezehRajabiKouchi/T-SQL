@@ -1,0 +1,34 @@
+C:\Documents and Settings\Parviz\My Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\bin\Debug\UsingTVParameters.exe
+C:\Documents and Settings\Parviz\My Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\bin\Debug\UsingTVParameters.pdb
+C:\Documents and Settings\Parviz\My Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Parviz\My Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.Form1.resources
+C:\Documents and Settings\Parviz\My Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.Properties.Resources.resources
+C:\Documents and Settings\Parviz\My Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.csproj.GenerateResource.Cache
+C:\Documents and Settings\Parviz\My Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.exe
+C:\Documents and Settings\Parviz\My Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.pdb
+C:\Users\Parviz\Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.exe
+C:\Users\Parviz\Documents\Visual Studio 2008\Projects\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.pdb
+C:\Users\Administrator\Desktop\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.exe
+C:\Users\Administrator\Desktop\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.pdb
+C:\Users\Administrator\Desktop\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\bin\Debug\UsingTVParameters.exe
+C:\Users\Administrator\Desktop\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\bin\Debug\UsingTVParameters.pdb
+C:\Users\Administrator\Desktop\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.Form1.resources
+C:\Users\Administrator\Desktop\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.Properties.Resources.resources
+C:\Users\Administrator\Desktop\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.csproj.GenerateResource.Cache
+D:\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.exe
+D:\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.pdb
+D:\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\bin\Debug\UsingTVParameters.exe
+D:\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\bin\Debug\UsingTVParameters.pdb
+D:\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.csprojResolveAssemblyReference.cache
+D:\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.Form1.resources
+D:\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.Properties.Resources.resources
+D:\T-SQL\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.csproj.GenerateResource.Cache
+C:\TSQL Saturday\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.exe
+C:\TSQL Saturday\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.pdb
+C:\TSQL Saturday\Session 11\UsingTVParameters\UsingTVParameters\bin\Debug\UsingTVParameters.exe
+C:\TSQL Saturday\Session 11\UsingTVParameters\UsingTVParameters\bin\Debug\UsingTVParameters.pdb
+C:\TSQL Saturday\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.csprojResolveAssemblyReference.cache
+C:\TSQL Saturday\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.Form1.resources
+C:\TSQL Saturday\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.Properties.Resources.resources
+C:\TSQL Saturday\Session 11\UsingTVParameters\UsingTVParameters\obj\Debug\UsingTVParameters.csproj.GenerateResource.Cache

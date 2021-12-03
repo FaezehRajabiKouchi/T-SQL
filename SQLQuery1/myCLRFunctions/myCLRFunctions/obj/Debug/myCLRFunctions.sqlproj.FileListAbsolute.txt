@@ -1,0 +1,5 @@
+C:\TSQL Saturday\Session 11\myCLRFunctions\myCLRFunctions\bin\Debug\myCLRFunctions.dacpac
+C:\TSQL Saturday\Session 11\myCLRFunctions\myCLRFunctions\bin\Debug\myCLRFunctions.dll
+C:\TSQL Saturday\Session 11\myCLRFunctions\myCLRFunctions\bin\Debug\myCLRFunctions.pdb
+C:\TSQL Saturday\Session 11\myCLRFunctions\myCLRFunctions\obj\Debug\myCLRFunctions.dll
+C:\TSQL Saturday\Session 11\myCLRFunctions\myCLRFunctions\obj\Debug\myCLRFunctions.pdb
